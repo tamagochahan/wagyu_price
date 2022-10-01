@@ -49,9 +49,7 @@ p {
 }
 
 @media screen and (min-width:576px) {
-  #page-top {
-    display: none;
-  }
+
   .row {
     margin-bottom: 30px;
   }
